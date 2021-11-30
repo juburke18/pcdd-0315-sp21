@@ -1,0 +1,164 @@
+{
+    "colors" : [
+      {
+        "name" : "Brand/JMB brand navy",
+        "value" : "#111C58"
+      },
+      {
+        "name" : "Brand/JMB brand lavendar",
+        "value" : "#BCC5F5"
+      },
+      {
+        "name" : "Brand/JMB brand bluegray",
+        "value" : "#C5C8E0"
+      },
+      {
+        "name" : "Brand/JMB brand pink",
+        "value" : "#E43B90"
+      },
+      {
+        "name" : "Brand/JMB brand rose",
+        "value" : "#E2BDBD"
+      },
+      {
+        "name" : "Backgrounds/JMB background white",
+        "value" : "#ffffff"
+      },
+      {
+        "name" : "Neutrals/JMB gray 100",
+        "value" : "#F6F6F6"
+      },
+      {
+        "name" : "Neutrals/JMB gray 200",
+        "value" : "#EBEBEB"
+      },
+      {
+        "name" : "Neutrals/JMB gray 300",
+        "value" : "#C6C6C6"
+      },
+      {
+        "name" : "Neutrals/JMB gray 800",
+        "value" : "#7B7B7B"
+      },
+      {
+        "name" : "Neutrals/JMB gray 900",
+        "value" : "#292929"
+      }
+    ]
+  {
+    "fonts" : [
+      "primary-font" : {
+        "name" : "Primary Font",
+        "fontFamily" : "Open Sans"
+      },
+      "secondary-font" : {
+        "name" : "Secondary Font",
+        "fontFamily" : "Ralway"
+      },
+      "third-font": {
+          "name": "Third Font",
+          "fontFamily": "Playfair Display"
+      },
+
+    ],
+    "typeStyles" : [
+      "heading-1" : {
+        "name" : "Heading 1",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "91px",
+        "lineHeight" : "104px",
+        "letterSpacing" : "0em",
+      },
+      "heading-2" : {
+        "name" : "Heading 2",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "60px",
+        "lineHeight" : "70px",
+        "letterSpacing" : "0em",
+      },
+      "heading-3" : {
+        "name" : "Heading 3",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "40px",
+        "lineHeight" : "40px",
+        "letterSpacing" : "0em",
+      },
+      "heading-4" : {
+        "name" : "Heading 4",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "27px",
+        "lineHeight" : "34px",
+        "letterSpacing" : "0em",
+      },
+      "heading-5" : {
+        "name" : "Heading 5",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "18px",
+        "lineHeight" : "24px",
+        "letterSpacing" : "0em",
+      },
+      "heading-6" : {
+        "name" : "Heading 6",
+        "fontFamily" : "Open Sans",
+        "fontSize" : "12px",
+        "lineHeight" : "17px",
+        "letterSpacing" : "0em",
+      },
+      "body-text" : {
+        "name" : "Body text",
+        "fontFamily" : "Raleway",
+        "fontSize" : "18px",
+        "lineHeight" : "27px",
+        "letterSpacing" : "0em",
+      },
+      "image-caption" : {
+        "name" : "Image caption",
+        "fontFamily" : "Playfair Display",
+        "fontSize" : "18px",
+        "lineHeight" : "27px",
+        "letterSpacing" : "0em",
+      },
+      "pull-quote" : {
+        "name" : "Pull quote ",
+        "fontFamily" : "Playfair Display",
+        "fontSize" : "27px",
+        "lineHeight" : "40px",
+        "letterSpacing" : "0em",
+      },
+    ]
+  }{
+    "SpacePatterns" : [
+      {
+        "name" : "none",
+        "value" : "0px"
+      },
+      {
+        "name" : "xx-small",
+        "value" : "2px"
+      },
+      {
+        "name" : "x-small",
+        "value" : "4px"
+      },
+      {
+        "name" : "small",
+        "value" : "8px"
+      },
+      {
+        "name" : "regular",
+        "value" : "16px"
+      },
+      {
+        "name" : "large",
+        "value" : "32px"
+      },
+      {
+        "name" : "x-large",
+        "value" : "64px"
+      },
+      {
+        "name" : "xx-large",
+        "value" : "128px"
+      },
+    ]
+  }
